@@ -1,5 +1,4 @@
 # Cat and Dog Image Classification using CNN
-
 This repository contains a convolutional neural network (CNN) model built to classify images of cats and dogs. The model uses TensorFlow and Keras libraries, achieving high accuracy in binary classification.
 
 ## Project Overview
